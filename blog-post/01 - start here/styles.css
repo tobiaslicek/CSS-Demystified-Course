@@ -1,0 +1,39 @@
+/* fonts */
+/* 
+    font-family: 'Cinzel', serif;
+    font-family: 'PT Serif', serif;
+
+    # blog article style guide
+
+## Colors
+- Links: #CA5E10;
+
+## Typography
+- Title: Cinzel 900
+- Subtitle & body: PT Serif 400
+*/
+
+.container {
+  width: 90%;
+  max-width: 39rem;
+  margin: 0 auto;
+}
+
+body {
+  font-size: 1.125rem;
+  font-family: PT Serif 400;
+  color: #414141;
+}
+
+h1 {
+  font-size: 6rem;
+}
+
+.subtitle {
+  font-size: 2.25rem;
+  color: #7d7d7d;
+}
+
+.lead {
+  font-size: 1.3125rem;
+}
